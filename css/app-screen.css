@@ -1,0 +1,43 @@
+body {
+
+	padding: 30px 0;
+}
+
+.warnning {
+	color: #900;
+}
+
+.spanLabel {
+	padding-top: 1em;
+	display: block;
+	font-size: 0.8em;
+}
+
+#item {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#item .row {
+	padding: 10px 0;
+	border-bottom: dashed 1px #aaa;
+}
+
+#items .row input {
+	margin-bottom: 0;
+}
+
+#items .row.done {
+	background-color: #eee;
+	font-style: italic;
+	color: #aaa;
+}
+
+.flr {
+	float: right;
+}
+
+.fa {
+	margin-right: 5px;
+}
